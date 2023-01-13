@@ -8,11 +8,9 @@
 ###### ⚡[COMO PROFESSOR] - Algoritmos C|C++ / VBA / Matemática Básica|Avançada / Probabilidade|Estatística/ Python|Django / Java / Javascript / HTML|CSS / PHP.
 ###### ⚡[COMO EMPREENDEDOR DIGITAL] - Jogos / CRUDs / Desenvolvimento Front-End  e Back-End / Experimentos digitais (Inovação) / Entre outros
 
-###### Blog - 
 ###### Linkedin - 
-###### Twitter - 
 
-#### Vamos nos conectar?
+#### ✨📫 Vamos nos conectar?
 
 
 <!--
